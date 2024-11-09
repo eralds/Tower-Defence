@@ -3,6 +3,10 @@ Tower Defence game implemented in C++ and SFML
 
 ![Screenshot (14)](https://github.com/eralds/Tower-Defence/assets/94328315/5bb33043-6f79-4e69-a9c0-d854abf12b89)
 
+
+
+
+
 ## Overview
 
 This project is a UI-based Tower Defence game constructed using the C++ SFML library. It features all standard gameplay elements with additional options. The game offers three levels, each with an increasing degree of difficulty and multiple waves of progressively challenging enemies. 
@@ -24,12 +28,8 @@ This project is a UI-based Tower Defence game constructed using the C++ SFML lib
 
 The game relies on strategic tower placement as once a tower is placed, it's permanent.
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/04af66cf-dfe0-4141-86f9-f77953c99cd8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![video](https://github.com/user-attachments/assets/3b143c9b-5fac-4ffd-bb64-8bd6037c49bd)
 
-![Watch the video](https://github.com/user-attachments/assets/04af66cf-dfe0-4141-86f9-f77953c99cd8)
 
 ## Software Structure
 
