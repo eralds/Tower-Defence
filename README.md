@@ -25,11 +25,11 @@ This project is a UI-based Tower Defence game constructed using the C++ SFML lib
 The game relies on strategic tower placement as once a tower is placed, it's permanent.
 
 <video width="640" height="360" controls>
-  <source src="src/tower_defense.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/04af66cf-dfe0-4141-86f9-f77953c99cd8" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-![Watch the video](src/tower_defense.mp4)
+![Watch the video](https://github.com/user-attachments/assets/04af66cf-dfe0-4141-86f9-f77953c99cd8)
 
 ## Software Structure
 
